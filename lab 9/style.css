@@ -1,0 +1,80 @@
+body, html
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    align-items: center;
+    text-align: center;
+}
+
+.topBar h1
+{
+    color: rgb(255, 255, 255);
+    height: 20px;
+    font-size: 36px;
+}
+
+.topBar p
+{
+    color: rgb(255, 255, 255);
+    height: 20px;
+    font-size: 18px;
+}
+
+.topBar
+{
+    background-color: #007a7a;
+    height: 150px;
+    margin-top: -25px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.line
+{
+    margin-top: -10px;
+    text-align: center;
+    color: #007a7a;
+}
+
+.image img
+{
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    align-items: center;
+}
+
+.about, .attractions {
+    width: 70%;
+    margin: 20px auto;
+  }
+  
+  .about h2, .attractions h3 {
+    color: #007a7a;
+  }
+  
+  ul {
+    list-style-type: none;
+    text-align: left;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 8px 0;
+  }
+  
+  button {
+    background-color: #007a7a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    margin: 30px 0;
+  }
