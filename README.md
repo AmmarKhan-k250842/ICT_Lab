@@ -1,3 +1,3 @@
 # ICT Lab
 
-Work of Html Css and Java done in ICT Lab
+All of the coding work done in ICT Lab 
