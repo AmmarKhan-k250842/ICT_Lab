@@ -1,0 +1,30 @@
+body, html
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(59, 59, 58);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bHolder
+{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(170, 170, 170);
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius:10px;
+    box-shadow: 5px 5px 20px black;
+}
+
+.r, .y, .g
+{
+    box-shadow: 2px 5px 10px rgb(69, 69, 69);
+    border-radius: 5px;
+    background-color: rgb(177, 255, 255);
+}
